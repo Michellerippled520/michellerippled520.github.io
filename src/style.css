@@ -1,9 +1,20 @@
 body {
     display: flex;
+    flex-direction: column; /* Stacks elements vertically */
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     background: #ddd;
+    gap: 15px; /* Adds clean spacing between H1, Calculator, and Button */
+    margin: 0;
+    font-family: sans-serif;
+}
+
+#myH1 {
+    font-size: 2rem; /* Made it bigger and bolder */
+    color: #333;
+    margin: 0; /* Cleared old broken margins */
+    text-align: center;
 }
 
 #calculator {
@@ -11,6 +22,7 @@ body {
     width: 320px;
     padding: 20px;
     border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.15); /* Adds a nice depth effect */
 }
 
 #display {
@@ -18,11 +30,9 @@ body {
     height: 70px;
     border-radius: 10px;
     margin-bottom: 20px;
-
     display: flex;
     justify-content: flex-end;
     align-items: center;
-
     padding-right: 15px;
     font-size: 2rem;
 }
@@ -46,4 +56,20 @@ body {
 #buttons button:hover {
     transform: scale(1.05);
     background: darkorange;
+}
+
+/* Styled your "Click Here" button to match the theme */
+#myButton {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+#myButton:hover {
+    background: #555;
 }
