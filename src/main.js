@@ -127,4 +127,8 @@ function calculateEverything() {
 
   console.log('Function addEverything End');
 }
-// .idea .preittierrc node_modules package.JSON package-lock.json 
+function changeH1() {
+  let myText = document.getElementById('myText');
+  myText.innerText = 'You Changed it to this'
+  console.log(myText)
+}
