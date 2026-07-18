@@ -1,1 +1,0 @@
-# simplyyrayyan.github.io
